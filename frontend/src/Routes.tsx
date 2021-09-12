@@ -25,4 +25,3 @@ const Routes = () => {
 
 export default Routes;
 
-//3 video 16m
